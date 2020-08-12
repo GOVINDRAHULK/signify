@@ -1,0 +1,3 @@
+Name | Regno | Total | Grade
+KGR | 161058 | 196 | S
+RR | 172586 | 178 | A
